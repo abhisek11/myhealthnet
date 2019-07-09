@@ -9,19 +9,20 @@ Password: password
 
 To sign into HealthNet as an administrator, you can use the following credentials:
 
-Username: admina@test.com
-Password: a
+Username: rupamhazra@helathnet.com
+Password: rupam123
 
 Some of the sample credentials for Doctor, Nurse, and Patient users:
 
-Username: doctora@test.com
-Password: a
+Username: nur.alam@healthnet.com
+Password: nur123
 
-Username: nursea@test.com
-Password: a
+credential for nurse
+Username: madhu.rupa@healthnet.com
+Password: madhu123
 
-Username: patienta@test.com
-Password: a
+Username: manas.paul@gmail.com
+Password: manas123
 
 
 DISCLAIMERS
