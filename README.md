@@ -67,10 +67,5 @@ Abhisek Singh
 raizadaabhi11@gmail.com
 
 
-DOCUMENTS
 
-Project Curry's Requirements Document
-- Requirements.pdf (located under the public_html/Release-R2Beta/cross-team-testing directory)
 
-Project Curry's Test Plan Document
-- ProjectCurryTestPlanTracker.xls.xlsx (located under the public_html/Release-R2Beta/cross-team-testing directory)
