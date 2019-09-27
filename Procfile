@@ -1,1 +1,1 @@
-web: gunicorn myhealthnet.wsgi --log-file -
+web: gunicorn myhealthnet.myhealthnet.wsgi --log-file -
