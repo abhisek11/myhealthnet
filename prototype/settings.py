@@ -25,8 +25,8 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = ['*','lucinet.herokuapp.com']
-# ALLOWED_HOSTS = ['lucinet.herokuapp.com']
+# ALLOWED_HOSTS = ['*','lucinet.herokuapp.com']
+ALLOWED_HOSTS = ['lucinet.herokuapp.com']
 
 
 # Application definition
